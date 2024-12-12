@@ -1,10 +1,10 @@
 ## Règles
 
-Le jeu se joue à minimum 2 joueurs. Nous partons du principe que nous sommes 3 joueurs.
+Le jeu se joue à minimum 3 joueurs jusqu'à 6 joueurs maximum. 
 
 ## Mise en place
 
-Le paquet est composé de 55 cartes, qui seront par la suite divisées en 3 (chaque joueur a donc respectivement, face cachée, un tas de 18 cartes). Une carte est exposée face visible au centre des joueurs.
+Le jeu est composé de 70 jetons , chaque joueur a 7 jetons, cachés des autres joueurs.Le joueur ayant un jeton double commence et le pose au milieu. Si plusieurs joueurs ont un double c'est celui qui a le double le plus élevé qui commence. 
 Lorsque les joueurs reçoivent leur paquet respectif de cartes face cachée, ils devront le retourner une fois la partie commencée.
 
 ## Déroulé de la partie
